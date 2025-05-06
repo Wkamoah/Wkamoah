@@ -65,7 +65,7 @@ My goal is clear: **Secure a remote Junior QA role by November 2025**, contribut
 - Former **bakery manager**, **restaurant lead**, and **Glovo courier** – I’ve worked with my hands, led teams, and solved real-world problems  
 - I’ve also been **School Prefect**, **SRC President**, and **SU President**—so teamwork, communication, and leading under pressure come naturally  
 - Outside of tech, I’m into **modeling, storytelling, fitness**, and content creation  
-- I’m currently developing a cinematic docu-series brand called **“Silence Is Loud”** that captures my growth and faith journey
+- I’m currently developing a cinematic docu-series brand called **“Becoming Winfred”** that captures my growth and faith journey
 
 ---
 
