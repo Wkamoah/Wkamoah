@@ -8,7 +8,11 @@
 
 ### 💼 My IT Journey
 
-I am currently enrolled in a high-intensity, 10-month IT Support to Systems Administrator Accelerator program. My focus is on **hands-on, enterprise-level infrastructure** to quickly secure a job and accelerate my career.
+I am an IT and IR student working and building my skills through steady lab work. I run a full home lab with Windows Server, Active Directory, DHCP, DNS, and client systems. I document each step on github, Freshdesk and Spiceworks and focus on clear troubleshooting. 
+
+I am completing the Google IT Support certificate and CompTIA A+ by December, 2025. I target IT Support and junior Systems Administrator roles where I apply these skills and grow through real work.
+
+
 
 | Icon | Area of Focus                           | Description                                                                                                                                                                                |
 | :--: | :-------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,15 +24,15 @@ I am currently enrolled in a high-intensity, 10-month IT Support to Systems Admi
 
 ### 📈 Career Trajectory
 
-My immediate goal is to secure a part-time remote IT Support role by Day 90 (January 2026) while building a Systems Administrator profile.
+My immediate goal is to secure a part-time remote IT Support role by Day January 2026 while building a Systems Administrator profile.
 
 | Status | Milestone                                     | Target Date / Outcome                      |
 | :----: | :-------------------------------------------- | :----------------------------------------- |
 |    ✅   | **Google IT Support Certificate**             | Expected January 2026                      |
 |   🔧   | **CompTIA A+ Certification**                  | Target Q1 2026 (Both Core 1 & Core 2)      |
-|   🖥️  | **Part-time Remote IT Support Role**          | Target: **January 2026** ($55K-$75K range) |
-|   🛠️  | **CompTIA Security+ & Azure AZ-900**          | Q2/Q3 2026 (SysAdmin Acceleration)         |
-|   🎯   | **Junior Systems Administrator**              | Target: August 2026 ($80K+ potential)      |
+|   🖥️  | **Part-time Remote IT Support Role**          | Target: **January 2026**  |
+|   🛠️  | **CompTIA Security+ & Azure AZ-900**          | Q2/Q3 2026 (SysAdmin Target)         |
+|   🎯   | **Junior Systems Administrator**              | Target: August 2026       |
 |   🌐   | **Funded Master’s in IT/Information Systems** | Long-term goal (Target Fall 2030)          |
 
 ---
@@ -62,8 +66,7 @@ My **[IT Portfolio](https://github.com/Wkamoah/IT-Portfolio)** documents my hand
 
 * **Global Perspective:** Born in Ghana, now studying International Relations at RUDN University, Moscow on a full scholarship.
 * **Process & Leadership:** Management experience in bakery and restaurant operations, developing core transferable skills in process improvement, de-escalation, and leadership.
-* **Confidence & Communication:** Modeling and acting experience, which translates directly into clear, confident communication for customer service (a critical IT Support soft skill).
-* **Commitment to IT:** Deferred my IT studies at the University of Ghana to focus on a practical, job-ready career launch in Systems Administration.
+* **Confidence & Communication:** Modeling and acting experience, which translates directly into clear, confident communication for customer service.
 
 ---
 
