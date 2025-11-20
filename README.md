@@ -43,6 +43,7 @@ My **[IT Portfolio](https://github.com/Wkamoah/IT-Portfolio)** documents my hand
 | **Memory Saver App**           | Front-End & Manual QA Testing Practice       | HTML/CSS/JS, QA Documentation                                        |
 | **Modeling Portfolio Website** | Responsive Web Design                        | Personal Branding, Front-End Development                             |
 | **QA Test Cases**              | Manual Testing Documentation                 | Structured Documentation, Bug Reporting                              |
+| **Cleaning Service Website**              | Responsive Web Design, Booking, Deployment               |   Front-End Development, Problwm Solving                    |
 
 ---
 
@@ -52,7 +53,7 @@ My **[IT Portfolio](https://github.com/Wkamoah/IT-Portfolio)** documents my hand
 | :--------------------------------- | :-------------------------------------------------------------------------------------------------------- |
 | 🖥️ **Systems & Virtualization**   | **Windows Server 2022**, **Active Directory**, PowerShell, VirtualBox, Linux (Ubuntu/CentOS), BIOS/UEFI   |
 | 🌐 **Networking & Infrastructure** | **TCP/IP**, **DNS**, **DHCP**, OSI Model (L3/L4), VLANs, Subnetting, Ping/Traceroute                      |
-| 🔧 **IT Tools & Platforms**        | **Jira/Freshdesk** (Ticketing), PowerShell ISE, GitHub, Windows Command Line (CMD), Azure AD (Conceptual) |
+| 🔧 **IT Tools & Platforms**        | **Jira/Freshdesk/Spiceworks** (Ticketing), PowerShell ISE, GitHub, Windows Command Line (CMD), Azure AD (Conceptual) |
 | 💻 **Development Foundation**      | HTML5, CSS3, JavaScript, Git                                                                              |
 
 ---
@@ -72,7 +73,7 @@ My **[IT Portfolio](https://github.com/Wkamoah/IT-Portfolio)** documents my hand
   <a href="mailto:wcannerro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:winfredkofiamoah@mail.com"><img src="https://img.shields.io/badge/Email-007EE5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Wkamoah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/winfred-kofi-amoah-6b9296397?trk=contact-info"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
