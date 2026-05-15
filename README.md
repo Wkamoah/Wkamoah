@@ -54,7 +54,7 @@ Working prototype with documented workflow and mock API, designed for production
 - **ITSM:** Freshdesk with custom workflow configuration  
 - **Documentation:** All labs tracked via structured support tickets  
 
-**[View Detailed Portfolio →](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip)**
+**[View Detailed Portfolio →](https://github.com/Wkamoah/IT-Portfolio)**
 
 ---
 
@@ -63,9 +63,7 @@ Working prototype with documented workflow and mock API, designed for production
 | Status | Milestone | Target |
 |:---|:---|:---|
 | ✅ | Google IT Support Professional Certificate | Completed |
-| 🔄 | CompTIA A+ (Core 1 & 2) | 2026 |
-| 🎯 | Remote IT Support / Helpdesk Role | Jan 2026 |
-| 🎯 | Junior Systems Administrator | Near Future |
+
 
 ---
 
@@ -84,10 +82,10 @@ Modeling and acting experience enables **clear, confident, user-facing communica
 
 ## 📫 Connect
 
-- **Portfolio:** [https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip)  
-- **GitHub:** [@Wkamoah](https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip)  
-- **Email:** [https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip]  
-- **LinkedIn:** [https://raw.githubusercontent.com/Wkamoah/Wkamoah/main/intranslatable/Software_v1.6.zip]  
+- **Portfolio:** [github.com/Wkamoah/IT-Portfolio](https://github.com/Wkamoah/IT-Portfolio)  
+- **GitHub:** [@Wkamoah](https://github.com/Wkamoah)  
+- **Email:** [winfredkofiamoah@gmail.com]  
+- **LinkedIn:** [www.linkedin.com/in/winfred-kofi-amoah-6b9296397]  
 
 ---
 
